@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=NetC4_1 Pin=DD1-1
+Removed Pin From Net: NetName=GND Pin=DD1-2
+Removed Pin From Net: NetName=GND Pin=DD1-2
+Removed Pin From Net: NetName=NetC2_1 Pin=DD1-3
+Change Component Footprint: Designator=L2 Old Footprint=INDICT_0402 New Footprint=INDICT_0603
+Change Component Footprint: Designator=ZQ2 Old Footprint=QUARTZ(32) New Footprint=QUARTZ(32.768)
+Change Component Footprint: Designator=X6 Old Footprint=Raziem3(1) New Footprint=Raziem4(1)_1.25mm
+Change Component Footprint: Designator=X7 Old Footprint=Raziem4(1) New Footprint=Raziem4(1)_1.25mm
+Change Component Footprint: Designator=X5 Old Footprint=RAZIEM_6 New Footprint=RAZIEM_6_2.54mm
+Change Component Footprint: Designator=DD3 Old Footprint=SOT-23-3_STAB_POWER New Footprint=SOT-89
+Change Component Comment : Designator=X6 Old Comment=SCT1251WV-3P New Comment=SCT1251WV-4P
+Added Pin To Net: NetName=GND Pin=DD1-1
+Added Pin To Net: NetName=NetC2_1 Pin=DD1-2
+Added Pin To Net: NetName=NetC2_1 Pin=DD1-2
+Added Pin To Net: NetName=NetC4_1 Pin=DD1-3
+Add Pin To Net: Unknown Pin: Pin X4-1
+Add Pin To Net: Unknown Pin: Pin X4-2
+Add Pin To Net: Unknown Pin: Pin X4-3
+Add Pin To Net: Unknown Pin: Pin X4-4
+Added Pin To Net: NetName=GND Pin=X6-4
+Add Class Member: Failed to add class member : Component X4 SCT1251WV-4P
+Added Room: Name=Sheet1

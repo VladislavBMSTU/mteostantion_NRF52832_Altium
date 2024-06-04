@@ -1,0 +1,4 @@
+Change Physical Footprint: Designator=C6 Old Footprint=CAP_0805 New Footprint=CAP_0805
+Change Physical Footprint: Designator=C21 Old Footprint=CAP_0805 New Footprint=CAP_0805
+Change Physical Footprint: Designator=R10 Old Footprint=RES_0603 New Footprint=RES_0603
+Change Physical Footprint: Designator=U1 Old Footprint=SOP12 New Footprint=SOP12

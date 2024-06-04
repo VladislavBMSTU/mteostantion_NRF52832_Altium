@@ -1,0 +1,12 @@
+Added Component: Designator=X2(USB-C)
+Add component (AddParameter): Name = "Name"; Value = "105450-0101"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=X2-A1
+Added Pin To Net: NetName=NetC1_1 Pin=X2-A4
+Added Pin To Net: NetName=GND Pin=X2-A12
+Added Pin To Net: NetName=GND Pin=X2-B1
+Added Pin To Net: NetName=GND Pin=X2-B12
+Added Pin To Net: NetName=GND Pin=X2-SH
+Added Pin To Net: NetName=GND Pin=X2-SH
+Added Pin To Net: NetName=GND Pin=X2-SH
+Added Pin To Net: NetName=GND Pin=X2-SH
+Added Member To Class: ClassName=Sheet1 Member=Component X2 105450-0101

@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [plataMedcontrol.PrjPcb]
+   Generated File[PCB2_DATCHIKI-Plated.TXT]
+   Generated File[PCB2_DATCHIKI-NonPlated.TXT]
+   Generated File[PCB2_DATCHIKI.LDP]
+   Generated File[PCB2_DATCHIKI.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 13:51:02 On 28.09.2023

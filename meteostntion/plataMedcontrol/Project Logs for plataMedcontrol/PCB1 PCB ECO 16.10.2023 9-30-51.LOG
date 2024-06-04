@@ -1,0 +1,132 @@
+Removed Pin From Net: NetName=GND Pin=DD3-0
+Removed Pin From Net: NetName=GND Pin=DD3-44
+Removed Pin From Net: NetName=GND Pin=WA1-2
+Removed Pin From Net: NetName=NetDD3_8 Pin=X6-2
+Removed Pin From Net: NetName=NetDD3_7 Pin=X6-3
+Change Component Footprint: Designator=ZQ2 Old Footprint=QUARTZ(32.768) New Footprint=QUARTZ(32)
+Change Component Footprint: Designator=X5 Old Footprint=Raziem2(1) New Footprint=Raziem3(1)
+Change Component Footprint: Designator=X6 Old Footprint=Raziem3(1) New Footprint=Raziem4(1)
+Change Component Comment : Designator=C4 Old Comment=0.1 ÏÍ‘ New Comment=1 ÏÍ‘
+Change Component Comment : Designator=C2 Old Comment=0.33 ÏÍ‘ New Comment=1 ÏÍ‘
+Change Component Comment : Designator=DD1 Old Comment=L78L33ACUTR New Comment=XC6206P332RP
+Change Component Comment : Designator=X5 Old Comment=SCT1251WV-2P New Comment=SCT1251WV-3P
+Change Component Comment : Designator=X6 Old Comment=SCT1251WV-3P New Comment=SCT1251WV-4P
+Change component parameters: Designator = "C2" ("C2"); Footprint = "CAP_0805"; UniqueID = "\DRRPNZSQ" ("\DRRPNZSQ")
+Change component parameters (AddParameter): Name = "Value"; Value = "1 ÏÍ‘"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C4" ("C4"); Footprint = "CAP_0805"; UniqueID = "\AMIJJDPM" ("\AMIJJDPM")
+Change component parameters (AddParameter): Name = "Value"; Value = "1 ÏÍ‘"; VariantName = "[No Variations]"
+Change component parameters: Designator = "DD1" ("DD1"); Footprint = "SOT-89"; UniqueID = "\KLKRLDDP" ("\KLKRLDDP")
+Change component parameters (AddParameter): Name = "Name"; Value = "XC6206P332RP"; VariantName = "[No Variations]"
+Change component parameters: Designator = "X5" ("X5"); Footprint = "Raziem2(1)"; UniqueID = "\QONISZVF" ("\QONISZVF")
+Change component parameters (AddParameter): Name = "Name"; Value = "SCT1251WV-3P"; VariantName = "[No Variations]"
+Change component parameters: Designator = "X6" ("X6"); Footprint = "Raziem3(1)"; UniqueID = "\OXKEFLHI" ("\OXKEFLHI")
+Change component parameters (AddParameter): Name = "Name"; Value = "SCT1251WV-4P"; VariantName = "[No Variations]"
+Added Component: Designator=C5(CAP_0805)
+Add component (AddParameter): Name = "Value"; Value = "1 ÏÍ‘"; VariantName = "[No Variations]"
+Added Component: Designator=C6(CAP_0805)
+Add component (AddParameter): Name = "Value"; Value = "100 Ì‘"; VariantName = "[No Variations]"
+Added Component: Designator=C19(CAP_0805)
+Add component (AddParameter): Name = "Value"; Value = "1 ÏÍ‘"; VariantName = "[No Variations]"
+Added Component: Designator=C20(CAP_0805)
+Add component (AddParameter): Name = "Value"; Value = "4.7 ÏÍ‘"; VariantName = "[No Variations]"
+Added Component: Designator=C21(CAP_0805)
+Add component (AddParameter): Name = "Value"; Value = "100 Ì‘"; VariantName = "[No Variations]"
+Added Component: Designator=DD4(SOT-23-3_STAB_POWER)
+Add component (AddParameter): Name = "Name"; Value = "XC6206P282MR"; VariantName = "[No Variations]"
+Added Component: Designator=R6(RES_0603)
+Add component (AddParameter): Name = "Value"; Value = "47 ÍŒÏ"; VariantName = "[No Variations]"
+Added Component: Designator=R7(RES_0603)
+Add component (AddParameter): Name = "Value"; Value = "10 ÍŒÏ"; VariantName = "[No Variations]"
+Added Component: Designator=R8(RES_0603)
+Add component (AddParameter): Name = "Value"; Value = "47 ÍŒÏ"; VariantName = "[No Variations]"
+Added Component: Designator=R9(RES_0603)
+Add component (AddParameter): Name = "Value"; Value = "10 ÍŒÏ"; VariantName = "[No Variations]"
+Added Component: Designator=R10(RES_0603)
+Add component (AddParameter): Name = "Value"; Value = "47 ÍŒÏ"; VariantName = "[No Variations]"
+Added Component: Designator=R11(RES_0603)
+Add component (AddParameter): Name = "Value"; Value = "47 ÍŒÏ"; VariantName = "[No Variations]"
+Added Component: Designator=U1(SOP12)
+Add component (AddParameter): Name = "Name"; Value = "VL6180XV0NR/1"; VariantName = "[No Variations]"
+Added Component: Designator=U2(HTU20D(F))
+Add component (AddParameter): Name = "Name"; Value = "HPP845E034R5"; VariantName = "[No Variations]"
+Added Component: Designator=X3(Raziem3(1))
+Add component (AddParameter): Name = "Name"; Value = "SCT1251WV-3P"; VariantName = "[No Variations]"
+Added Component: Designator=X4(Raziem4(1))
+Add component (AddParameter): Name = "Name"; Value = "SCT1251WV-4P"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC4_1 Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=NetC4_1 Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C19-2
+Added Pin To Net: NetName=GND Pin=C20-2
+Added Pin To Net: NetName=GND Pin=C21-2
+Added Pin To Net: NetName=GND Pin=DD4-1
+Added Pin To Net: NetName=NetC4_1 Pin=DD4-2
+Added Pin To Net: NetName=NetC4_1 Pin=R2-2
+Added Pin To Net: NetName=NetC4_1 Pin=R5-2
+Added Pin To Net: NetName=NetDD3_8 Pin=R6-1
+Added Pin To Net: NetName=NetDD3_5 Pin=R7-1
+Added Pin To Net: NetName=NetC4_1 Pin=R7-2
+Added Pin To Net: NetName=NetDD3_4 Pin=R9-1
+Added Pin To Net: NetName=NetC4_1 Pin=R9-2
+Added Pin To Net: NetName=NetDD3_7 Pin=R10-1
+Added Pin To Net: NetName=NetDD3_6 Pin=R11-1
+Added Pin To Net: NetName=NetDD3_6 Pin=U1-1
+Added Pin To Net: NetName=NetDD3_7 Pin=U1-4
+Added Pin To Net: NetName=NetDD3_8 Pin=U1-5
+Added Pin To Net: NetName=GND Pin=U1-9
+Added Pin To Net: NetName=GND Pin=U1-12
+Added Pin To Net: NetName=NetDD3_4 Pin=U2-1
+Added Pin To Net: NetName=GND Pin=U2-2
+Added Pin To Net: NetName=GND Pin=U2-2
+Added Pin To Net: NetName=NetC4_1 Pin=U2-5
+Added Pin To Net: NetName=NetDD3_5 Pin=U2-6
+Added Pin To Net: NetName=NetC4_1 Pin=VD4-K
+Added Pin To Net: NetName=NetDD3_4 Pin=X3-1
+Added Pin To Net: NetName=NetDD3_5 Pin=X3-2
+Added Pin To Net: NetName=NetC4_1 Pin=X3-3
+Added Pin To Net: NetName=NetDD3_6 Pin=X4-1
+Added Pin To Net: NetName=NetDD3_7 Pin=X4-2
+Added Pin To Net: NetName=NetDD3_8 Pin=X4-3
+Added Pin To Net: NetName=NetC4_1 Pin=X5-3
+Added Pin To Net: NetName=NetDD3_7 Pin=X6-2
+Added Pin To Net: NetName=NetDD3_8 Pin=X6-3
+Added Pin To Net: NetName=NetC19_1 Pin=C19-1
+Added Pin To Net: NetName=NetC19_1 Pin=C20-1
+Added Pin To Net: NetName=NetC19_1 Pin=C21-1
+Added Pin To Net: NetName=NetC19_1 Pin=DD4-3
+Added Pin To Net: NetName=NetC19_1 Pin=R6-2
+Added Pin To Net: NetName=NetC19_1 Pin=R8-2
+Added Pin To Net: NetName=NetC19_1 Pin=R10-2
+Added Pin To Net: NetName=NetC19_1 Pin=R11-2
+Added Pin To Net: NetName=NetC19_1 Pin=U1-8
+Added Pin To Net: NetName=NetC19_1 Pin=U1-10
+Added Net: Name=NetC19_1
+Added Pin To Net: NetName=NetDD3_9 Pin=DD3-9
+Added Pin To Net: NetName=NetDD3_9 Pin=R8-1
+Added Pin To Net: NetName=NetDD3_9 Pin=U1-6
+Added Pin To Net: NetName=NetDD3_9 Pin=X4-4
+Added Pin To Net: NetName=NetDD3_9 Pin=X6-4
+Added Net: Name=NetDD3_9
+Added Pin To Net: NetName=NetDD3_10 Pin=DD3-10
+Added Pin To Net: NetName=NetDD3_10 Pin=VD3-A
+Added Net: Name=NetDD3_10
+Added Member To Class: ClassName=Sheet2_datciki Member=Component C5 1 ÏÍ‘
+Added Member To Class: ClassName=Sheet2_datciki Member=Component C6 100 Ì‘
+Added Member To Class: ClassName=Sheet2_datciki Member=Component C19 1 ÏÍ‘
+Added Member To Class: ClassName=Sheet2_datciki Member=Component C20 4.7 ÏÍ‘
+Added Member To Class: ClassName=Sheet2_datciki Member=Component C21 100 Ì‘
+Added Member To Class: ClassName=Sheet2_datciki Member=Component DD4 XC6206P282MR
+Added Member To Class: ClassName=Sheet2_datciki Member=Component R6 47 ÍŒÏ
+Added Member To Class: ClassName=Sheet2_datciki Member=Component R7 10 ÍŒÏ
+Added Member To Class: ClassName=Sheet2_datciki Member=Component R8 47 ÍŒÏ
+Added Member To Class: ClassName=Sheet2_datciki Member=Component R9 10 ÍŒÏ
+Added Member To Class: ClassName=Sheet2_datciki Member=Component R10 47 ÍŒÏ
+Added Member To Class: ClassName=Sheet2_datciki Member=Component R11 47 ÍŒÏ
+Added Member To Class: ClassName=Sheet2_datciki Member=Component U1 VL6180XV0NR/1
+Added Member To Class: ClassName=Sheet2_datciki Member=Component U2 HPP845E034R5
+Added Member To Class: ClassName=Sheet2_datciki Member=Component X3 SCT1251WV-3P
+Added Member To Class: ClassName=Sheet2_datciki Member=Component X4 SCT1251WV-4P
+Added Room: Name=Sheet1
+Added Room: Name=Sheet2_datciki
+Added Room: Name=Sheet3_mk

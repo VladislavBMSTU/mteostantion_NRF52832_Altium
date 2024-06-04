@@ -1,0 +1,67 @@
+Added Component: Designator=C5(CAP_0805)
+Add component (AddParameter): Name = "Value"; Value = "1 לךÔ"; VariantName = "[No Variations]"
+Added Component: Designator=C6(CAP_0805)
+Add component (AddParameter): Name = "Value"; Value = "100 םÔ"; VariantName = "[No Variations]"
+Added Component: Designator=R6(RES_0603)
+Add component (AddParameter): Name = "Value"; Value = "2 ךÎל"; VariantName = "[No Variations]"
+Added Component: Designator=R7(RES_0603)
+Add component (AddParameter): Name = "Value"; Value = "10 ךÎל"; VariantName = "[No Variations]"
+Added Component: Designator=R8(RES_0603)
+Add component (AddParameter): Name = "Value"; Value = "2 ךÎל"; VariantName = "[No Variations]"
+Added Component: Designator=R9(RES_0603)
+Add component (AddParameter): Name = "Value"; Value = "10 ךÎל"; VariantName = "[No Variations]"
+Added Component: Designator=R10(RES_0603)
+Add component (AddParameter): Name = "Value"; Value = "2 ךÎל"; VariantName = "[No Variations]"
+Added Component: Designator=U1(LTR-303ALS-01)
+Add component (AddParameter): Name = "Name"; Value = "LTR-303ALS"; VariantName = "[No Variations]"
+Added Component: Designator=U2(HTU20D(F))
+Add component (AddParameter): Name = "Name"; Value = "HPP845E034R5"; VariantName = "[No Variations]"
+Added Component: Designator=X3(Raziem2(1))
+Add component (AddParameter): Name = "Name"; Value = "SCT1251WV-2P"; VariantName = "[No Variations]"
+Added Component: Designator=X4(Raziem3(1))
+Add component (AddParameter): Name = "Name"; Value = "SCT1251WV-3P"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC4_1 Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=NetC6_1 Pin=C6-1
+Added Pin To Net: NetName=NetC4_1 Pin=C6-2
+Added Pin To Net: NetName=NetDD3_6 Pin=R6-1
+Added Pin To Net: NetName=NetC4_1 Pin=R6-2
+Added Pin To Net: NetName=NetDD3_5 Pin=R7-1
+Added Pin To Net: NetName=NetC4_1 Pin=R7-2
+Added Pin To Net: NetName=NetDD3_7 Pin=R8-1
+Added Pin To Net: NetName=NetC4_1 Pin=R8-2
+Added Pin To Net: NetName=NetDD3_4 Pin=R9-1
+Added Pin To Net: NetName=NetC4_1 Pin=R9-2
+Added Pin To Net: NetName=NetDD3_8 Pin=R10-1
+Added Pin To Net: NetName=NetC4_1 Pin=R10-2
+Added Pin To Net: NetName=NetC4_1 Pin=U1-1
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Pin To Net: NetName=GND Pin=U1-3
+Added Pin To Net: NetName=NetDD3_8 Pin=U1-4
+Added Pin To Net: NetName=NetDD3_7 Pin=U1-5
+Added Pin To Net: NetName=NetDD3_6 Pin=U1-6
+Added Pin To Net: NetName=NetDD3_4 Pin=U2-1
+Added Pin To Net: NetName=NetC6_1 Pin=U2-2
+Added Pin To Net: NetName=NetC6_1 Pin=U2-2
+Added Pin To Net: NetName=GND Pin=U2-3
+Added Pin To Net: NetName=GND Pin=U2-4
+Added Pin To Net: NetName=NetC4_1 Pin=U2-5
+Added Pin To Net: NetName=NetDD3_5 Pin=U2-6
+Added Pin To Net: NetName=NetDD3_4 Pin=X3-1
+Added Pin To Net: NetName=NetDD3_5 Pin=X3-2
+Added Pin To Net: NetName=NetDD3_6 Pin=X4-1
+Added Pin To Net: NetName=NetDD3_8 Pin=X4-2
+Added Pin To Net: NetName=NetDD3_7 Pin=X4-3
+Change Net Color : Old Net Color=RGB(0, 57, 93) New Net Color=Default
+Added Member To Class: ClassName=Sheet2_datciki Member=Component C5 1 לךÔ
+Added Member To Class: ClassName=Sheet2_datciki Member=Component C6 100 םÔ
+Added Member To Class: ClassName=Sheet2_datciki Member=Component R6 2 ךÎל
+Added Member To Class: ClassName=Sheet2_datciki Member=Component R7 10 ךÎל
+Added Member To Class: ClassName=Sheet2_datciki Member=Component R8 2 ךÎל
+Added Member To Class: ClassName=Sheet2_datciki Member=Component R9 10 ךÎל
+Added Member To Class: ClassName=Sheet2_datciki Member=Component R10 2 ךÎל
+Added Member To Class: ClassName=Sheet2_datciki Member=Component U1 LTR-303ALS
+Added Member To Class: ClassName=Sheet2_datciki Member=Component U2 HPP845E034R5
+Added Member To Class: ClassName=Sheet2_datciki Member=Component X3 SCT1251WV-2P
+Added Member To Class: ClassName=Sheet2_datciki Member=Component X4 SCT1251WV-3P
+Added Room: Name=Sheet2_datciki
